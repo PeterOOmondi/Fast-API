@@ -1,7 +1,7 @@
 # Flask-API
 
 **Overview**
-This is a RESTful API built using Flask, a lightweight Python web framework. The API provides various endpoints to manage resources, making it suitable for integration with frontend applications or other services.
+This is a RESTful API built using Flask, a lightweight Python web framework. The API provides various endpoints to manage resources, making it suitable for integration with frontend applications or other services for essential use.
 
 **Features**
 RESTful architecture
